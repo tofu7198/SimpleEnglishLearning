@@ -13,6 +13,15 @@ The word has a illustration (optional). It has the same name as the word and is 
 
 There is a special "directory" named "review" for reviewing function, whose format is different: Word#Meaning#isTheWordLearnedOrNot? - LearningDate(dd/mm/yyyy hh:mm:ss)
 
+# About the functions
+Learn: Learn a number of new words, Learn from Directory, Test, Review a number of new words.
+
+Edit: Edit directory, Delete, Create a new one, Merge 2 directories.
+
+Search: Search for the word.
+
+Statistic: Number of words learned, Number of Correct/Wrong answers.
+
 # About the files
 
 Word, WordWithDate, Directory and DirectoriesControl.java contents the Word and Directory input method.
